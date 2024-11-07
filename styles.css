@@ -5,5 +5,17 @@ body {
 }
 
 header{
-border: solid 6px rgb(255, 224, 26);
+border: solid 6px rgb(240, 223, 64);
+padding : 15px;
+font-size: 20px;
+
 }
+
+section { 
+     background : rgb(240, 222, 64);
+     padding-top : 15px;
+     padding-bottom : 45px;
+     border-bottom : solid 2px border; 
+
+}
+
